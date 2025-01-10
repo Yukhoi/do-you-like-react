@@ -1,0 +1,21 @@
+.selection-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  padding: 20px;
+}
+
+.question-text {
+  text-align: center;
+  font-weight: bold;
+}
+
+.select-form {
+  width: 200px;
+}
+
+.select-form .MuiSelect-select {
+  background-color: white;
+}
