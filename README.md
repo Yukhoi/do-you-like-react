@@ -22,8 +22,6 @@ A simple interactive React application demonstrating user interaction patterns w
 ## Quick Start
 
 ```bash
-# Install dependencies
 npm install
 
-# Start development server
 npm run dev
